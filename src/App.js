@@ -5,8 +5,9 @@ class App extends Component {
   render() {
     return (
       <Validator />
-    );
+    )
   }
+
 }
 
-export default App;
+export default App
